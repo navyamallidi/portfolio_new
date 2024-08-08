@@ -314,7 +314,7 @@ export const projects = [
     description:
       "A Complaint Management System to Take complaints from the students online, Making it easier for everyone to Manage the data and collaborate. ",
     image:
-      "https://private-user-images.githubusercontent.com/126240213/271762961-03b3742b-c4b3-4a74-9af5-c51b92cf5179.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI3NDYwMjYsIm5iZiI6MTcyMjc0NTcyNiwicGF0aCI6Ii8xMjYyNDAyMTMvMjcxNzYyOTYxLTAzYjM3NDJiLWM0YjMtNGE3NC05YWY1LWM1MWI5MmNmNTE3OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwNFQwNDI4NDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00YzI0YzIzZmNhZDk0YjFhMjQzY2Y0ZjVhOGEyMzc1MDMwYmVlMmRlOGQ1NjZlOGY5Njk1MDEwM2FiMjM3MjFkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.nkJP_IwVtW38pVobYK9StFt8ml34aRj5TgukWadME-4",
+      "https://i.ytimg.com/vi/mz-3r8mcfP0/maxresdefault.jpg",
     tags: [
       "PHP",
       "BOOTSTRAP",
@@ -332,7 +332,7 @@ export const projects = [
     description:
       "The Voting Application is a web-based platform that allows users to create and participate in polls. It ensures a fair voting process and provides real-time results.",
     image:
-      "https://private-user-images.githubusercontent.com/121367892/354880070-b40a3c8b-80e9-4622-b0b6-5fae2e824b4f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI3NTIxOTEsIm5iZiI6MTcyMjc1MTg5MSwicGF0aCI6Ii8xMjEzNjc4OTIvMzU0ODgwMDcwLWI0MGEzYzhiLTgwZTktNDYyMi1iMGI2LTVmYWUyZTgyNGI0Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwNFQwNjExMzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZjJlZjZiZjhlYmQ5OGVkYjljYjE2NzA1Zjk0YjUwYmMzMjZmNjk0ZjEyODNiNWI5NzMzZWE0OTgwMzViMTA5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ourisseQPQW0nhKK37b4JV75whmVhEz15HWakvQiWCc",
+      "https://nanx.me/image/wordcloud.png",
     tags: ["Next js", "React Js", "Redis", "Socket.io"],
     category: "next app",
     github: "https://github.com/navyamallidi/voting-application.git",
@@ -364,7 +364,7 @@ export const projects = [
     description:
       "A dynamic platform for managing and exploring school information. This application allows users to view, search, and sort a list of schools, providing a user-friendly interface with modern features.",
     image:
-      "https://private-user-images.githubusercontent.com/121367892/354881948-c23d5691-9143-49dc-849f-ca4869f41eb7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI3NTQ2MjUsIm5iZiI6MTcyMjc1NDMyNSwicGF0aCI6Ii8xMjEzNjc4OTIvMzU0ODgxOTQ4LWMyM2Q1NjkxLTkxNDMtNDlkYy04NDlmLWNhNDg2OWY0MWViNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwNFQwNjUyMDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hZmU3ZWFjNGQ2MDJiYzExNmE0Njg5ZDg2N2MzYzIxODAzZTk4NmU4N2ZhNDdlY2Y0NmRlZTg4YmU1MmRlMjM4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ZjQ2lceBEMo9cyAOaJdT1HK7XauNpQLEVJYU-60XuZ0",
+      "https://eskooly.com/assets/images/illustrations/mockups/landing3/desktop-min.png",
     tags: ["PHP", "Bootstrap"],
     category: "PHP app",
     github: "https://github.com/navyamallidi/schools_admin_page.git",
@@ -376,7 +376,7 @@ export const projects = [
     description:
       "This tool provides a simple and efficient way to test and validate APIs. Whether you're developing a new API or working with an existing one, this tool helps you ensure your endpoints are working correctly.",
     image:
-      "https://private-user-images.githubusercontent.com/121367892/354898553-cf4fb1dc-7754-401a-838a-63e29a4ca345.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI3NzE3MjMsIm5iZiI6MTcyMjc3MTQyMywicGF0aCI6Ii8xMjEzNjc4OTIvMzU0ODk4NTUzLWNmNGZiMWRjLTc3NTQtNDAxYS04MzhhLTYzZTI5YTRjYTM0NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwNFQxMTM3MDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZjU3MWVkYzBjMzkxNzM2ZTJlYzU5NzMyNWRhZDFmOTI1MDk1NWQxMDg4MzNkMDFlNzNmYjQ3ODdjZDhhNjc1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.lKF08ow8lgrhanfODyuG1eZ_lixe2F9JXIbWe9aEcws",
+      "https://res.cloudinary.com/practicaldev/image/fetch/s--goAAZiQN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.saashub.com/images/app/screenshots/66/bb6c7648355f/landing-medium.jpg%3F1567653672",
     tags: ["React", "Redux"],
     category: "mern app",
     github: "https://github.com/navyamallidi/postwomen.git",
@@ -401,7 +401,7 @@ export const projects = [
     description:
       "The Interactive Web Code Editor is a real-time, online platform for writing, previewing HTML, CSS, and JavaScript code. It's equipped with features like syntax highlighting and customizable layouts, ideal for both learning and development.",
     image:
-      "https://private-user-images.githubusercontent.com/121367892/354875408-b91cd1d9-eba0-46b7-b02e-f1dcf18c8d88.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI3NDcyMDAsIm5iZiI6MTcyMjc0NjkwMCwicGF0aCI6Ii8xMjEzNjc4OTIvMzU0ODc1NDA4LWI5MWNkMWQ5LWViYTAtNDZiNy1iMDJlLWYxZGNmMThjOGQ4OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwNFQwNDQ4MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNmJlOGRlN2QyYTVjMjNiODY2NGVmMGUxYjQ3YzA2ZTMwNWI0ZGE4NjkwYzEzZDdkODBhMmU3ZjY5OTJhNzFlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.SLMEEdFAXdzWYFggBoeG9yhiILa0yQrNH0B0k23Y-zw",
+      "https://cpwebassets.codepen.io/assets/packs/editor-projects-a0d6a9e16cf1c2c46219ef3d49370823.png",
     tags: [
       "React Js",
       "Redux",
@@ -416,7 +416,7 @@ export const projects = [
     description:
       "This is a application for admins to add students to class and delete them and can also add the classes and delete them",
     image:
-      "https://private-user-images.githubusercontent.com/121367892/354907774-054f21f1-b041-4859-ac62-ff4a7291e59f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI3ODE0ODgsIm5iZiI6MTcyMjc4MTE4OCwicGF0aCI6Ii8xMjEzNjc4OTIvMzU0OTA3Nzc0LTA1NGYyMWYxLWIwNDEtNDg1OS1hYzYyLWZmNGE3MjkxZTU5Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwNFQxNDE5NDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wZWQwYTMxODBkMjdmYjg4YzM2ZGI4ZDk1MTVjYjkyZWQyOTM5N2RiMGI4OTY3MmJhMGQ3MzQ1MDgwMmZiOWI2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.YenHF_ff0rmZ6TEPqL9GNGJV3njJ0fNrjdkQ--C4jeg",
+      "https://s3.envato.com/files/500966178/05_preview.png",
     tags: ["PHP", "Bootstrap"],
     category: "php app",
     github: "https://github.com/navyamallidi/admin_dashboard.git",
@@ -428,7 +428,7 @@ export const projects = [
     description:
       "The restaurant front-end application features an elegant, user-friendly interface for exploring the menu, making reservations, and placing online orders. It is built with React, styled using Tailwind CSS and MUI, ensuring a responsive and engaging user experience.",
     image:
-      "https://private-user-images.githubusercontent.com/121367892/354904220-2bd00042-0e79-49f1-965b-1e1338e5cf6b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI3Nzg3MzgsIm5iZiI6MTcyMjc3ODQzOCwicGF0aCI6Ii8xMjEzNjc4OTIvMzU0OTA0MjIwLTJiZDAwMDQyLTBlNzktNDlmMS05NjViLTFlMTMzOGU1Y2Y2Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwNFQxMzMzNThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZmQ3NDkxMzVkYWI2MjA3NGI5OWNkNzg5NjgyMmRlNGJmZGNhMzM5NDJiMjlmNDhkODdhNWNjYWYyYmEwYTZjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.z7Nbtwlwk48sefag0f9yG_qI31M8eYd2skPfPD1gy3I",
+      "https://www.restapp.com/wp-content/uploads/2021/12/website-1.png",
     tags: ["React Js"],
     category: "mern app",
     github: "https://github.com/navyamallidi/restaurant-frontend.git",
@@ -439,7 +439,7 @@ export const projects = [
     title: "Weather Application",
     description:
       "The restaurant front-end application features an elegant, user-friendly interface for exploring the menu, making reservations, and placing online orders. It is built with React, styled using Tailwind CSS and MUI, ensuring a responsive and engaging user experience.",
-    image: "https://private-user-images.githubusercontent.com/121367892/354907177-ad6a6b9f-959b-4eba-b284-41e0b6b295fd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI3ODA4MjcsIm5iZiI6MTcyMjc4MDUyNywicGF0aCI6Ii8xMjEzNjc4OTIvMzU0OTA3MTc3LWFkNmE2YjlmLTk1OWItNGViYS1iMjg0LTQxZTBiNmIyOTVmZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwNFQxNDA4NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NjAxMzc2NzAzODIwMDcwMzA4NDk1NzE0NmIxNjQ3MTk1YTk0NWM5MzllYjg5MTAwZDhkZmM2OWZjYjZiY2VhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.YIEUCRv4G-kcA0_CZVPrk9lGVEDLgg-nkVzvXK-chxc",
+    image: "https://beebom.com/wp-content/uploads/2021/05/1.-weather-default-windows1.1.jpg",
     tags: ["Next js", "React Js"],
     category: "next app",
     github: "https://github.com/navyamallidi/News-WebApp.git",
@@ -451,7 +451,7 @@ export const projects = [
     description:
       "A simple react app that shows the characters of the famous TV series Breaking Bad. It uses the Breaking Bad API to fetch the data. It also has a search bar to search for a particular character.",
     image:
-      "https://private-user-images.githubusercontent.com/121367892/354903096-1b5c4613-732f-483c-aa2b-adc01fcb9c3e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI3NzY1OTMsIm5iZiI6MTcyMjc3NjI5MywicGF0aCI6Ii8xMjEzNjc4OTIvMzU0OTAzMDk2LTFiNWM0NjEzLTczMmYtNDgzYy1hYTJiLWFkYzAxZmNiOWMzZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwNFQxMjU4MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MGZkNDVkNzM3ODYwZTI3ZDc3MDE4ODEyNjc2MmE0ODJhNmViZmI5MTEzZTdiZTE3NjdkN2JhNjI2M2MyZGNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.iMtNgbslqHjo3iK252V5iWBPOdiUfElj8Tps6CfuTfQ",
+      "https://user-images.githubusercontent.com/29139306/223408199-decaa65b-6213-462b-891f-2996d7f7590c.png",
     tags: ["Next js", "React Js", "socket IO"],
     category: "next app",
     github: "https://github.com/navyamallidi/blog-app.git",
@@ -476,7 +476,7 @@ export const projects = [
     description:
       "A movie recommendation system is an elaborate method that attempts to predict your preferred items based on your preferences or those of people similar to you. This project aims to provide related genre movies for a given movie",
     image:
-      "https://private-user-images.githubusercontent.com/126240213/271764924-046b010d-a779-4884-ae0e-8a42f9320f04.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI3NzU3OTgsIm5iZiI6MTcyMjc3NTQ5OCwicGF0aCI6Ii8xMjYyNDAyMTMvMjcxNzY0OTI0LTA0NmIwMTBkLWE3NzktNDg4NC1hZTBlLThhNDJmOTMyMGYwNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwNFQxMjQ0NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wOTNkYjRlYjRjYjliOTQ1MTVhZmVkYTlmOTc1ODE2M2QyOWFkODc0NDUwNmYxZmY3YTkxOTA3YTI5N2I4ZGU4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.aesGb-omm2SOF3HUb-BHGdAk8RNddXg9EB_lKp5Eqgw",
+      "https://miro.medium.com/v2/resize:fit:1400/1*UfL9BL7LSzykCNddYG-p0Q.png",
     tags: ["Python", "Machine Learning", "Vectorization", "SKlearn"],
     category: "machine learning",
     github: "https://github.com/navyamallidi/movies-recommendation-system.git",
@@ -488,7 +488,7 @@ export const projects = [
     description:
       "Adding, editing, and deleting consumers involve creating a form to collect and validate consumer details, updating the database via API endpoints, and providing an option with confirmation for deletion.",
     image:
-      "https://private-user-images.githubusercontent.com/121367892/354911693-be9ddbde-8de8-4129-8cef-0d589778ea27.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI3ODYyNTMsIm5iZiI6MTcyMjc4NTk1MywicGF0aCI6Ii8xMjEzNjc4OTIvMzU0OTExNjkzLWJlOWRkYmRlLThkZTgtNDEyOS04Y2VmLTBkNTg5Nzc4ZWEyNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwNFQxNTM5MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNGVhZmU5OThmZTBmMDNlMzAwMmE1NmY0OGJlNWJmNjBiNWZkYjQzNDk2N2RhODA3OTYyMWEwNTliNmE4ODNlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.HgcArd6jOW9GvJkBNC-mFe3Iinit_AomiEZlojdkL-M",
+      "https://blogs.manageengine.com/image/501000000795178/Dashboard.jpg",
     tags: ["React"],
     category: "mern app",
     github: "https://github.com/navyamallidi/data-display.git",
@@ -500,7 +500,7 @@ export const projects = [
     description:
       "Finding Birthdays of celebrated people by using the birthday API ",
     image:
-      "https://private-user-images.githubusercontent.com/121367892/354912817-ba179d32-6686-4718-90a1-403c552a1c24.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI3ODY2NTgsIm5iZiI6MTcyMjc4NjM1OCwicGF0aCI6Ii8xMjEzNjc4OTIvMzU0OTEyODE3LWJhMTc5ZDMyLTY2ODYtNDcxOC05MGExLTQwM2M1NTJhMWMyNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwNFQxNTQ1NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mOTU5MmZkNTJlMmY2OTlhZTY0MGMwNTJmMGU4NGFhNDcwOGM2NTkxMzg5NjAzOTc3NzE4YTVlNTAzYTFiZjBkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9._0ujuoG4ULqfcWsz6oOM2eyR963K5lc1q2Isanu0Urk",
+      "https://media.geeksforgeeks.org/wp-content/uploads/20200615030229/final473.png",
     tags: ["React"],
     category: "mern app",
     github: "https://github.com/navyamallidi/data-display.git",
@@ -512,7 +512,7 @@ export const projects = [
     description:
       "Finding Birthdays of celebrated people by using the birthday API ",
     image:
-      "https://private-user-images.githubusercontent.com/121367892/354970242-3153eb07-6197-49d4-b44d-963b1ea33813.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI4NTc3NzMsIm5iZiI6MTcyMjg1NzQ3MywicGF0aCI6Ii8xMjEzNjc4OTIvMzU0OTcwMjQyLTMxNTNlYjA3LTYxOTctNDlkNC1iNDRkLTk2M2IxZWEzMzgxMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwNVQxMTMxMTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMDBkM2IxZDcyNmRmNmQ3YmMzZWNkMjQyNTE0YzBlYzgyNzgyMGViMTJmZGZiOTE1YWIxODg2OTg1NDk0NTAxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.GKBI_xFDyYTO2LUKY8-Pd7PQ0YHgmlKmjXKV00B317g",
+      "https://telegram.org/file/811140557/4/6zghfkT1Uyc.365727/a7c0863af9ecc4b3af",
     tags: ["React"],
     category: "mern app",
     github: "https://github.com/navyamallidi/data-display.git",
@@ -524,7 +524,7 @@ export const projects = [
     description:
       " An application for Hotel for showing their available availablity and showcase their available facilties ",
     image:
-      "https://private-user-images.githubusercontent.com/121367892/354969086-83fb5a0d-cadf-42da-a212-2a16064cb8f7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI4NjExMTMsIm5iZiI6MTcyMjg2MDgxMywicGF0aCI6Ii8xMjEzNjc4OTIvMzU0OTY5MDg2LTgzZmI1YTBkLWNhZGYtNDJkYS1hMjEyLTJhMTYwNjRjYjhmNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwNVQxMjI2NTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MWIzYmMwMDEzOTQwZjgwZjc0OTQ2ZDNhYTM2ZTg4OTdjNzkzYWNjODY2MzEwNDllMWViYjdiZTE2YTU1YjRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.VsEJKOpxDTwrYu5Xnrz9mUxE_yOyre6gwZP1LtKYNiU",
+      "https://cdn.dribbble.com/users/1813738/screenshots/14076525/media/77bf66bbac91f20995bee71805cbe7d3.jpg?resize=400x300&vertical=center",
     tags: ["PHP","Bootstrap"],
     category: "php app",
     github: "https://github.com/navyamallidi/Hotel-Application.git",
